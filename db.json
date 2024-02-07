@@ -96,20 +96,4 @@
         "ratings": 4,
         "imgUrl": "https://cdn.gintaa.com/offers/image/20230124/7jjqDgN6tGdRs6Ltvk9QRu/thumbs/4ivsrqnS11hrM227DOpeId_imagecropper1674568983837_400x400.jpg"
       }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  ]
